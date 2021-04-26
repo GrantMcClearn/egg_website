@@ -1,7 +1,7 @@
 ## Meet The Team
-<img src="IMG_5055.JPG" width="250" height="200">
+<img src="IMG_5055.JPG" width="350" height="233">
 Lily's Bio
-<img src="IMG_6902.jpeg" width="200" height="250">
+<img src="IMG_6902.jpeg" width="276" height="350">
 Julia's Bio
 
 
