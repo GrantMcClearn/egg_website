@@ -1,5 +1,5 @@
 ## Meet The Team
-<img src="IMG_5055.JPG" width="350" height="233" style="float:left; padding: 15px">
+<img src="IMG_5055.JPG" width="400" height="266" style="float:left; padding: 15px">
 
 Lily is from Newtown-upon-Winnipesaukee, New Hampshire. She's a senior CS major at GWU (but not for long!). In the fifth grade, she correctly guessed that there were seven hundred and eighty-six Jelly Belly jelly beans in a jar, and so got to take all of them home (much to the chagrin of her peers). In her free time, she enjoys running on the National Mall, going to amusement parks with adequate social distancing measures, and mountain biking. Her ultimate goal is to empower folks through fitness technology like Fitbit.
 
