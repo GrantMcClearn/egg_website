@@ -1,6 +1,8 @@
 ## Meet The Team
-![](IMG_5055.JPG)
-![](IMG_6902.jpeg)
+<img src="IMG_5055.JPG" width="100" height="100">
+Lily's Bio
+<img src="IMG_6902.jpeg" width="100" height="100">
+Julia's Bio
 
 
 
