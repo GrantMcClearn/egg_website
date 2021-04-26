@@ -1,6 +1,6 @@
 ## Meet The Team
-![](lily.png)
-![](julia.png)
+![](IMG_5055.JPG)
+![](IMG_6902.jpeg)
 
 
 
