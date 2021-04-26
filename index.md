@@ -1,9 +1,12 @@
 ## Meet The Team
 <img src="IMG_5055.JPG" width="350" height="233">
-Lily's Bio
+Lily is from Newtown-upon-Winnipesaukee, New Hampshire. She's a senior CS major at GWU (but not for long!). In the fifth grade, she correctly guessed
+that there were seven hundred and eighty-six Jelly Belly jelly beans in a jar, and so got to take all of them home (much to the chagrin of her peers). 
+In her free time, she enjoys running
+on the National Mall, going to amusement parks with adequate social distancing measures, and mountain biking.
 <img src="IMG_6902.jpeg" width="276" height="350">
-Julia's Bio
-
+Julia was raised on the Upper East Side of Manhattan. From a very young age, she manifested an intense interest in vacuum cleaners, which eventually blossomed into her interest in Computer Science; she is also a senior CS major. Her vacuum cleaner interest has since waned, but she is still a die-hard Dyson fangirl.
+In her free time, she loves going to Wendy's with her family and friends, and selling spare computer parts that she extracts from her father's work computer.
 
 
 ## Welcome to GitHub Pages
