@@ -14,12 +14,12 @@ Julia was raised on the Upper East Side of Manhattan. From a very young age, she
 Harmon was born and bred in Vienna, Virginia. He is an avid student of Computer Science and History. His top three favorite wars are, in no particular order,
 the Russo-Japanese War, the War of the Seventh Coalition, and the First World War. He loves to go between his home and the actual Vienna in Austria. The latter has a superior opera scene, better street food options, and all around good vibes. Otherwise, he spends his days re-reading Shakespeare's Hamlet and watching Catfish: The TV Show. He wants to work in the (admittedly small) intersection of CS and History. AI techniques have already been used to help generate the likenesses of some ancient Roman emperors!
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <img src="IMG_4377.jpeg" width="276" height="350" style="float:left; padding: 15px">
 
 Grant is from Greensboro, North Carolina. He's a senior in CS, but his DegreeMap still erroneously lists him as Pre-Med too. He owns a shirt of Martin van Buren, the eighth president of the United States. He was able to successfully--and easily--discern between Tastycake and Hostess cupcakes in a blind taste test. When he's not going to school or Potbelly Sandwich Shop, he can be found playing Mario Kart with his roommates or marvelling at the number of sirens one hears in DC. He likes the more mathy parts of CS, and wants to stay in school for a long, long time.
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 ## Project Presentation                     Commercial Screencast
 <iframe width="400" height="315"
 src="https://www.youtube.com/embed/dQw4w9WgXcQ" style="float:left">
