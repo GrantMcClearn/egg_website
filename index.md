@@ -24,6 +24,8 @@ src="https://www.youtube.com/embed/dQw4w9WgXcQ" style="float:left">
 src="https://www.youtube.com/embed/dQw4w9WgXcQ" style="float:right">
 </iframe>
 
+<br><br>
+
 ## Links
 [Writing 1: Lily](https://docs.google.com/document/d/18vYd3yrTZhru_3RXhJX7MchKTurhbP4zYAZf3kKtYlg/edit?usp=sharing)
 <br>
