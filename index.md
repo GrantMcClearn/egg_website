@@ -14,12 +14,24 @@ Julia was raised on the Upper East Side of Manhattan. From a very young age, she
 Harmon was born and bred in Vienna, Virginia. He is an avid student of Computer Science and History. His top three favorite wars are, in no particular order,
 the Russo-Japanese War, the War of the Seventh Coalition, and the First World War. He loves to go between his home and the actual Vienna in Austria. The latter has a superior opera scene, better street food options, and all around good vibes. Otherwise, he spends his days re-reading Shakespeare's Hamlet and watching Catfish: The TV Show. He wants to work in the (admittedly small) intersection of CS and History. AI techniques have already been used to help generate the likenesses of some ancient Roman emperors!
 
-
+<br><br>
 ## Project Presentation
-
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 </iframe>
+
+<br>
+## Commercial Screencast
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/dQw4w9WgXcQ">
+</iframe>
+
+## Links
+[Writing 1](url)
+[Writing 2](https://docs.google.com/document/d/1ZbGIxXBxLTfAsBrAB8QHNSQyxrR6OODzxIw3ACiqtyg/edit?usp=sharing)
+[Writing 3](url)
+
+
 
 
 ## Welcome to GitHub Pages
