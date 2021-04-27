@@ -16,11 +16,11 @@ the Russo-Japanese War, the War of the Seventh Coalition, and the First World Wa
 
 <br><br>
 ## Project Presentation                     Commercial Screencast
-<iframe width="420" height="315"
+<iframe width="400" height="315"
 src="https://www.youtube.com/embed/dQw4w9WgXcQ" style="float:left">
 </iframe>
 
-<iframe width="420" height="315"
+<iframe width="400" height="315"
 src="https://www.youtube.com/embed/dQw4w9WgXcQ" style="float:right">
 </iframe>
 
