@@ -1,21 +1,21 @@
 ## Meet The Team
-<img src="IMG_5055.JPG" width="400" height="266" style="float:left; padding: 15px; border: 5px solid #555">
+<img src="IMG_5055.JPG" width="400" height="266" style="float:left; margin: 15px; border: 5px solid #555">
 
 Lily is from Newtown-upon-Winnipesaukee, New Hampshire. She's a senior CS major at GWU (but not for long!). In the fifth grade, she correctly guessed that there were seven hundred and eighty-six Jelly Belly jelly beans in a jar, and so got to take all of them home (much to the chagrin of her peers). In her free time, she enjoys running on the National Mall, going to amusement parks with adequate social distancing measures, and mountain biking. Her ultimate goal is to empower folks through fitness technology like Fitbit.
 
 <br><br>
-<img src="IMG_6902.jpeg" width="276" height="350" style="float:left; border: 5px solid #555; padding: 15px">
+<img src="IMG_6902.jpeg" width="276" height="350" style="float:left; border: 5px solid #555; margin: 15px">
 
 Julia was raised on the Upper East Side of Manhattan. From a very young age, she manifested an intense interest in vacuum cleaners, which eventually blossomed into her interest in Computer Science; she is also a senior CS major. Her vacuum cleaner interest has since waned, but she is still a die-hard Dyson fangirl. In her free time, she loves going to Wendy's with her family and friends, and selling spare computer parts that she extracts from her father's work computer. Her dream job is software engineer; she loves puzzling out algorithmic problems wherever she can find them.
 
 <br><br><br><br><br><br><br>
-<img src="harmon.jpeg" width="276" height="350" style="float:left; padding: 15px; border: 5px solid #555">
+<img src="harmon.jpeg" width="276" height="350" style="float:left; margin: 15px; border: 5px solid #555">
 
 Harmon was born and bred in Vienna, Virginia. He is an avid student of Computer Science and History. His top three favorite wars are, in no particular order,
 the Russo-Japanese War, the War of the Seventh Coalition, and the First World War. He loves to go between his home and the actual Vienna in Austria. The latter has a superior opera scene, better street food options, and all around good vibes. Otherwise, he spends his days re-reading Shakespeare's Hamlet and watching Catfish: The TV Show. He wants to work in the (admittedly small) intersection of CS and History. AI techniques have already been used to help generate the likenesses of some ancient Roman emperors!
 
 <br><br><br><br><br>
-<img src="IMG_4377.jpeg" width="276" height="350" style="float:left; padding: 15px; border: 5px solid #555">
+<img src="IMG_4377.jpeg" width="276" height="350" style="float:left; margin: 15px; border: 5px solid #555">
 
 Grant is from Greensboro, North Carolina. He's a senior in CS, but his DegreeMap still erroneously lists him as Pre-Med too. He owns a shirt of Martin van Buren, the eighth president of the United States. He was able to successfully--and easily--discern between Tastycake and Hostess cupcakes in a blind taste test. When he's not going to school or Potbelly Sandwich Shop, he can be found playing Mario Kart with his roommates or marvelling at the number of sirens one hears in DC. He likes the more mathy parts of CS, and wants to stay in school for a long, long time.
 
