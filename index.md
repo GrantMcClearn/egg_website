@@ -27,9 +27,19 @@ src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 </iframe>
 
 ## Links
-[Writing 1](url)
+[Writing 1: Lily](https://docs.google.com/document/d/18vYd3yrTZhru_3RXhJX7MchKTurhbP4zYAZf3kKtYlg/edit?usp=sharing)
+<br>
+[Writing 1: Julia](https://docs.google.com/document/d/11a1AoPKB3UaSG4_sbZlA5f0Z1zwba3j-3K_sYU2to3M/edit?usp=sharing)
+<br>
+[Writing 1: Harmon](https://docs.google.com/document/d/1zHGMa8pKH3w7705ruEzwGBe2GaEZ4VsFIe4rIratu9o/edit?usp=sharing)
+<br>
+[Writing 1: Grant](https://docs.google.com/document/d/1q4VrKB_sx93x4b4PrGZI8Ai9tB1i6YjCT_4KtHpitP8/edit?usp=sharing)
+<br>
 [Writing 2](https://docs.google.com/document/d/1ZbGIxXBxLTfAsBrAB8QHNSQyxrR6OODzxIw3ACiqtyg/edit?usp=sharing)
-[Writing 3](url)
+<br>
+[Writing 3](https://docs.google.com/document/d/1b-qc_T9XAMBMcSU9Ic3yM1XbbD7eLSl1BxPrD0rEVOY/edit?usp=sharing)
+<br>
+[Final Report](url)
 
 
 
