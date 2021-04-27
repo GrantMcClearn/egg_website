@@ -18,7 +18,7 @@ the Russo-Japanese War, the War of the Seventh Coalition, and the First World Wa
 ## Project Presentation
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 </iframe>
 
 
