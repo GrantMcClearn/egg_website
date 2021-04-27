@@ -20,7 +20,7 @@ the Russo-Japanese War, the War of the Seventh Coalition, and the First World Wa
 Grant is from Greensboro, North Carolina. He's a senior in CS, but his DegreeMap still erroneously lists him as Pre-Med too. He owns a shirt of Martin van Buren, the eighth president of the United States. He was able to successfully--and easily--discern between Tastycake and Hostess cupcakes in a blind taste test. When he's not going to school or Potbelly Sandwich Shop, he can be found playing Mario Kart with his roommates or marvelling at the number of sirens one hears in DC. He likes the more mathy parts of CS, and wants to stay in school for a long, long time.
 
 <br><br><br><br><br>
-## Project Presentation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commercial Screencast
+## Project Presentation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commercial Screencast
 <iframe width="400" height="315"
 src="https://www.youtube.com/embed/dQw4w9WgXcQ" style="float:left">
 </iframe>
