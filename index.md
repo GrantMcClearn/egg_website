@@ -15,6 +15,11 @@ Harmon was born and bred in Vienna, Virginia. He is an avid student of Computer 
 the Russo-Japanese War, the War of the Seventh Coalition, and the First World War. He loves to go between his home and the actual Vienna in Austria. The latter has a superior opera scene, better street food options, and all around good vibes. Otherwise, he spends his days re-reading Shakespeare's Hamlet and watching Catfish: The TV Show. He wants to work in the (admittedly small) intersection of CS and History. AI techniques have already been used to help generate the likenesses of some ancient Roman emperors!
 
 
+## Project Presentation
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+</iframe>
 
 
 ## Welcome to GitHub Pages
