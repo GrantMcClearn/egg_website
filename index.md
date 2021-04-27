@@ -6,12 +6,12 @@ Lily is from Newtown-upon-Winnipesaukee, New Hampshire. She's a senior CS major 
 <br><br>
 <img src="IMG_6902.jpeg" width="276" height="350" style="float:left; border: 5px solid #555; margin: 15px">
 
-Julia was raised on the Upper East Side of Manhattan. From a very young age, she manifested an intense interest in vacuum cleaners, which eventually blossomed into her interest in Computer Science; she is also a senior CS major. Her vacuum cleaner interest has since waned, but she is still a die-hard Dyson fangirl. In her free time, she loves going to Wendy's with her family and friends, and selling spare computer parts that she extracts from her father's work computer. Her dream job is software engineer; she loves puzzling out algorithmic problems wherever she can find them.
+Julia was raised in Baldwin, New York. From a very young age, she manifested an intense interest in vacuum cleaners, which eventually blossomed into her interest in Computer Science; she is also a senior CS major. Her vacuum cleaner interest has since waned, but she is still a die-hard Dyson fangirl. (That said, she has a major bone to pick with Dyson hand-dryers.) In her free time, she loves going to Wendy's with her family and friends, and selling spare computer parts that she extracts from her father's work computer. Her dream job is software engineer; she loves puzzling out algorithmic problems wherever she can find them.
 
 <br><br><br><br><br><br><br>
 <img src="harmon.jpeg" width="276" height="350" style="float:left; margin: 15px; border: 5px solid #555">
 
-Harmon was born and bred in Vienna, Virginia. He is an avid student of Computer Science and History. His top three favorite wars are, in no particular order,
+Harmon was born and raised in Vienna, Virginia. He is an avid student of Computer Science and History. His top three favorite wars are, in no particular order,
 the Russo-Japanese War, the War of the Seventh Coalition, and the First World War. He loves to go between his home and the actual Vienna in Austria. The latter has a superior opera scene, better street food options, and all around good vibes. Otherwise, he spends his days re-reading Shakespeare's Hamlet and watching Catfish: The TV Show. He wants to work in the (admittedly small) intersection of CS and History. AI techniques have already been used to help generate the likenesses of some ancient Roman emperors!
 
 <br><br><br><br><br>
