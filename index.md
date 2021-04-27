@@ -4,7 +4,7 @@
 Lily is from Newtown-upon-Winnipesaukee, New Hampshire. She's a senior CS major at GWU (but not for long!). In the fifth grade, she correctly guessed that there were seven hundred and eighty-six Jelly Belly jelly beans in a jar, and so got to take all of them home (much to the chagrin of her peers). In her free time, she enjoys running on the National Mall, going to amusement parks with adequate social distancing measures, and mountain biking. Her ultimate goal is to empower folks through fitness technology like Fitbit.
 
 <br><br>
-<img src="IMG_6902.jpeg" width="276" height="350" style="float:left; border: 5px solid #555 padding: 15px;">
+<img src="IMG_6902.jpeg" width="276" height="350" style="float:left; border: 5px; solid #555 padding: 15px">
 
 Julia was raised on the Upper East Side of Manhattan. From a very young age, she manifested an intense interest in vacuum cleaners, which eventually blossomed into her interest in Computer Science; she is also a senior CS major. Her vacuum cleaner interest has since waned, but she is still a die-hard Dyson fangirl. In her free time, she loves going to Wendy's with her family and friends, and selling spare computer parts that she extracts from her father's work computer. Her dream job is software engineer; she loves puzzling out algorithmic problems wherever she can find them.
 
