@@ -1,7 +1,7 @@
 ## Meet The Team
 <img src="IMG_5055.JPG" width="400" height="266" style="float:left; margin: 15px; border: 5px solid #555">
 
-Lily is from Newtown-upon-Winnipesaukee, New Hampshire. She's a senior CS major at GWU (but not for long!). In the fifth grade, she correctly guessed that there were seven hundred and eighty-six Jelly Belly jelly beans in a jar, and so got to take all of them home (much to the chagrin of her peers). In her free time, she enjoys running on the National Mall, going to amusement parks with adequate social distancing measures, and mountain biking. Her ultimate goal is to empower folks through fitness technology like Fitbit.
+Lily is from Windham, New Hampshire. She's a senior CS major at GWU (but not for long!). In the fifth grade, she correctly guessed that there were seven hundred and eighty-six Jelly Belly jelly beans in a jar, and so got to take all of them home (much to the chagrin of her peers). In her free time, she enjoys running on the National Mall, going to amusement parks with adequate social distancing measures, and mountain biking. Her ultimate goal is to empower folks through fitness technology like Fitbit.
 
 <br><br>
 <img src="IMG_6902.jpeg" width="276" height="350" style="float:left; border: 5px solid #555; margin: 15px">
@@ -20,7 +20,7 @@ the Russo-Japanese War, the War of the Seventh Coalition, and the First World Wa
 Grant is from Greensboro, North Carolina. He's a senior in CS, but his DegreeMap still erroneously lists him as Pre-Med too. He owns a shirt of Martin van Buren, the eighth president of the United States. He was able to successfully--and easily--discern between Tastycake and Hostess cupcakes in a blind taste test. When he's not going to school or Potbelly Sandwich Shop, he can be found playing Mario Kart with his roommates or marvelling at the number of sirens one hears in DC. He likes the more mathy parts of CS, and wants to stay in school for a long, long time.
 
 <br><br><br><br><br>
-## Project Presentation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commercial Screencast
+## Project Presentation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commercial Screencast
 <iframe width="400" height="315"
 src="https://www.youtube.com/embed/dQw4w9WgXcQ" style="float:left">
 </iframe>
